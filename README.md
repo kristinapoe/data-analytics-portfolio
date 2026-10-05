@@ -11,7 +11,14 @@
 
 ## Навыки
 
-- **SQL:** JOIN, GROUP BY, CTE, оконные функции, подзапросы
+- - **SQL (PostgreSQL):**
+  - SELECT, WHERE, ORDER BY, LIMIT
+  - JOIN (INNER, LEFT, RIGHT, FULL), UNION
+  - GROUP BY, HAVING, агрегатные функции (COUNT, SUM, AVG, MIN, MAX)
+  - Подзапросы (в SELECT, FROM, WHERE), коррелированные подзапросы
+  - CTE (WITH)
+  - Оконные функции: ROW_NUMBER, RANK, DENSE_RANK, SUM/AVG OVER
+  - CASE, COALESCE, NULLIF, работа с датами и строками
 - **Python:** pandas, базовые скрипты, обработка данных
 - **Excel:** сводные таблицы, ВПР, СЧЁТЕСЛИМН
 - **BI:** Power BI (в процессе)
